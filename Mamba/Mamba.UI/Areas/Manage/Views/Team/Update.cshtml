@@ -1,0 +1,51 @@
+﻿@model Team;
+<style>
+    .form-container {
+        max-width: 700px;
+        padding: 50px;
+        margin-bottom: 50px;
+        border-left: 7px solid #435d7d !important;
+        border-radius: 3px;
+    }
+
+    .btn-info, .btn-primary {
+        width: 150px;
+    }
+</style>
+<div class="container shadow form-container">
+    <div>
+        <h1 class="title mb-3">Update a Team member</h1>
+    </div>
+    <form method="post" enctype="multipart/form-data">
+        <div class="mb-3">
+            <label asp-for="FullName" class="form-label">Team FullName</label>
+            <input asp-for="FullName" type="text" class="form-control">
+            <span asp-validation-for="FullName" style="color:red"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="ProfessionId">Professions</label>
+            <select asp-for="ProfessionId" class="form-select" aria-label="Default select example">
+                @foreach (var profession in ViewBag.Professions)
+                {
+                    <option value="@profession.Id">@profession.Name</option>
+                }
+            </select>
+            <span asp-validation-for="ProfessionId" style="color:red"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="RedirectUrl" class="form-label">Redirect-Url</label>
+            <input asp-for="RedirectUrl" type="text" class="form-control">
+            <span asp-validation-for="RedirectUrl" style="color:red"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="ImageFile" class="form-label">Image</label>
+            <input asp-for="ImageFile" class="form-control">
+            <span asp-validation-for="ImageFile" style="color:red"></span>
+            @* <img style="width:15%;margin-top:10px;" src="~/uploads/team/@Model.ImgUrl" /> *@
+        </div>
+
+        <button type="submit" class="btn btn-primary ">Submit</button>
+        <a class="btn btn-info" asp-action="Index" asp-controller="Team">Back To Home</a>
+    </form>
+</div>

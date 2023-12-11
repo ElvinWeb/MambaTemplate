@@ -1,0 +1,17 @@
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Data\bin\Debug\net6.0\Mamba.Data.deps.json
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Data\bin\Debug\net6.0\Mamba.Data.dll
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Data\bin\Debug\net6.0\Mamba.Data.pdb
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Data\obj\Debug\net6.0\Mamba.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Data\obj\Debug\net6.0\Mamba.Data.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Data\obj\Debug\net6.0\Mamba.Data.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Data\obj\Debug\net6.0\Mamba.Data.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Data\obj\Debug\net6.0\Mamba.Data.dll
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Data\obj\Debug\net6.0\refint\Mamba.Data.dll
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Data\obj\Debug\net6.0\Mamba.Data.pdb
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Data\obj\Debug\net6.0\ref\Mamba.Data.dll
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Data\bin\Debug\net6.0\Mamba.Core.dll
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Data\bin\Debug\net6.0\Mamba.Core.pdb
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Data\obj\Debug\net6.0\Mamba.Data.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Data\obj\Debug\net6.0\Mamba.Data.csproj.CopyComplete
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Data\bin\Debug\net6.0\Mamba.Data.runtimeconfig.json
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Data\obj\Debug\net6.0\Mamba.Data.genruntimeconfig.cache

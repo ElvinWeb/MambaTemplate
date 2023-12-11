@@ -1,0 +1,17 @@
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Business\bin\Debug\net6.0\Mamba.Business.deps.json
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Business\bin\Debug\net6.0\Mamba.Business.dll
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Business\bin\Debug\net6.0\Mamba.Business.pdb
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Business\obj\Debug\net6.0\Mamba.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Business\obj\Debug\net6.0\Mamba.Business.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Business\obj\Debug\net6.0\Mamba.Business.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Business\obj\Debug\net6.0\Mamba.Business.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Business\obj\Debug\net6.0\Mamba.Business.dll
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Business\obj\Debug\net6.0\refint\Mamba.Business.dll
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Business\obj\Debug\net6.0\Mamba.Business.pdb
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Business\obj\Debug\net6.0\ref\Mamba.Business.dll
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Business\bin\Debug\net6.0\Mamba.Core.dll
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Business\bin\Debug\net6.0\Mamba.Data.dll
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Business\bin\Debug\net6.0\Mamba.Data.pdb
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Business\bin\Debug\net6.0\Mamba.Core.pdb
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Business\obj\Debug\net6.0\Mamba.Business.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Business\obj\Debug\net6.0\Mamba.Business.csproj.CopyComplete
