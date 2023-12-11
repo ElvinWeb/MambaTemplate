@@ -10,3 +10,15 @@ C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Core\obj\Debug\net6.0\refint\Mamb
 C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Core\obj\Debug\net6.0\Mamba.Core.pdb
 C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Core\obj\Debug\net6.0\ref\Mamba.Core.dll
 C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Core\obj\Debug\net6.0\Mamba.Core.csproj.AssemblyReference.cache
+C:\Users\elvin\OneDrive\Documents\MainProjects\MambaTemplate\Mamba\Mamba.Core\bin\Debug\net6.0\Mamba.Core.deps.json
+C:\Users\elvin\OneDrive\Documents\MainProjects\MambaTemplate\Mamba\Mamba.Core\bin\Debug\net6.0\Mamba.Core.dll
+C:\Users\elvin\OneDrive\Documents\MainProjects\MambaTemplate\Mamba\Mamba.Core\bin\Debug\net6.0\Mamba.Core.pdb
+C:\Users\elvin\OneDrive\Documents\MainProjects\MambaTemplate\Mamba\Mamba.Core\obj\Debug\net6.0\Mamba.Core.csproj.AssemblyReference.cache
+C:\Users\elvin\OneDrive\Documents\MainProjects\MambaTemplate\Mamba\Mamba.Core\obj\Debug\net6.0\Mamba.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvin\OneDrive\Documents\MainProjects\MambaTemplate\Mamba\Mamba.Core\obj\Debug\net6.0\Mamba.Core.AssemblyInfoInputs.cache
+C:\Users\elvin\OneDrive\Documents\MainProjects\MambaTemplate\Mamba\Mamba.Core\obj\Debug\net6.0\Mamba.Core.AssemblyInfo.cs
+C:\Users\elvin\OneDrive\Documents\MainProjects\MambaTemplate\Mamba\Mamba.Core\obj\Debug\net6.0\Mamba.Core.csproj.CoreCompileInputs.cache
+C:\Users\elvin\OneDrive\Documents\MainProjects\MambaTemplate\Mamba\Mamba.Core\obj\Debug\net6.0\Mamba.Core.dll
+C:\Users\elvin\OneDrive\Documents\MainProjects\MambaTemplate\Mamba\Mamba.Core\obj\Debug\net6.0\refint\Mamba.Core.dll
+C:\Users\elvin\OneDrive\Documents\MainProjects\MambaTemplate\Mamba\Mamba.Core\obj\Debug\net6.0\Mamba.Core.pdb
+C:\Users\elvin\OneDrive\Documents\MainProjects\MambaTemplate\Mamba\Mamba.Core\obj\Debug\net6.0\ref\Mamba.Core.dll

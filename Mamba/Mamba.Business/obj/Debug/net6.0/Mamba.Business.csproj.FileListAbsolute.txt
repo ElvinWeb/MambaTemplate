@@ -15,3 +15,20 @@ C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Business\bin\Debug\net6.0\Mamba.D
 C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Business\bin\Debug\net6.0\Mamba.Core.pdb
 C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Business\obj\Debug\net6.0\Mamba.Business.csproj.AssemblyReference.cache
 C:\Users\II novbe\Desktop\all task\Mamba\Mamba.Business\obj\Debug\net6.0\Mamba.Business.csproj.CopyComplete
+C:\Users\elvin\OneDrive\Documents\MainProjects\MambaTemplate\Mamba\Mamba.Business\bin\Debug\net6.0\Mamba.Business.deps.json
+C:\Users\elvin\OneDrive\Documents\MainProjects\MambaTemplate\Mamba\Mamba.Business\bin\Debug\net6.0\Mamba.Business.dll
+C:\Users\elvin\OneDrive\Documents\MainProjects\MambaTemplate\Mamba\Mamba.Business\bin\Debug\net6.0\Mamba.Business.pdb
+C:\Users\elvin\OneDrive\Documents\MainProjects\MambaTemplate\Mamba\Mamba.Business\bin\Debug\net6.0\Mamba.Core.dll
+C:\Users\elvin\OneDrive\Documents\MainProjects\MambaTemplate\Mamba\Mamba.Business\bin\Debug\net6.0\Mamba.Data.dll
+C:\Users\elvin\OneDrive\Documents\MainProjects\MambaTemplate\Mamba\Mamba.Business\bin\Debug\net6.0\Mamba.Data.pdb
+C:\Users\elvin\OneDrive\Documents\MainProjects\MambaTemplate\Mamba\Mamba.Business\bin\Debug\net6.0\Mamba.Core.pdb
+C:\Users\elvin\OneDrive\Documents\MainProjects\MambaTemplate\Mamba\Mamba.Business\obj\Debug\net6.0\Mamba.Business.csproj.AssemblyReference.cache
+C:\Users\elvin\OneDrive\Documents\MainProjects\MambaTemplate\Mamba\Mamba.Business\obj\Debug\net6.0\Mamba.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvin\OneDrive\Documents\MainProjects\MambaTemplate\Mamba\Mamba.Business\obj\Debug\net6.0\Mamba.Business.AssemblyInfoInputs.cache
+C:\Users\elvin\OneDrive\Documents\MainProjects\MambaTemplate\Mamba\Mamba.Business\obj\Debug\net6.0\Mamba.Business.AssemblyInfo.cs
+C:\Users\elvin\OneDrive\Documents\MainProjects\MambaTemplate\Mamba\Mamba.Business\obj\Debug\net6.0\Mamba.Business.csproj.CoreCompileInputs.cache
+C:\Users\elvin\OneDrive\Documents\MainProjects\MambaTemplate\Mamba\Mamba.Business\obj\Debug\net6.0\Mamba.Business.csproj.CopyComplete
+C:\Users\elvin\OneDrive\Documents\MainProjects\MambaTemplate\Mamba\Mamba.Business\obj\Debug\net6.0\Mamba.Business.dll
+C:\Users\elvin\OneDrive\Documents\MainProjects\MambaTemplate\Mamba\Mamba.Business\obj\Debug\net6.0\refint\Mamba.Business.dll
+C:\Users\elvin\OneDrive\Documents\MainProjects\MambaTemplate\Mamba\Mamba.Business\obj\Debug\net6.0\Mamba.Business.pdb
+C:\Users\elvin\OneDrive\Documents\MainProjects\MambaTemplate\Mamba\Mamba.Business\obj\Debug\net6.0\ref\Mamba.Business.dll

@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace Mamba.UI.Areas.Manage.Controllers
 {
     [Area("manage")]
-    [Authorize(Roles = "SuperAdmin,Admin")]
+    //[Authorize(Roles = "SuperAdmin,Admin")]
     public class DashBoardController : Controller
     {
         private readonly UserManager<User> _userManager;

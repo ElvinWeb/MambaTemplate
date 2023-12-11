@@ -1,0 +1,44 @@
+﻿@model MemberLoginViewModel
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>RegistrationForm_v10 by Colorlib</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- STYLE CSS -->
+
+    <link rel="stylesheet" href="~/assets/css/login.css">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+</head>
+<body>
+    <div class="wrapper">
+        <div class="inner">
+            <img src="images/image-1.png" alt="" class="image-1">
+            <form action="">
+                <h3>Login</h3>
+                <div class="form-holder">
+                    <input asp-for="UserName" class="form-control" placeholder="Username">
+                </div>
+                <span asp-validation-for="UserName" style="color: red; font-size:13px"></span>
+                <div class="form-holder">
+                    <input asp-for="Password" class="form-control" placeholder="Password">
+                </div>
+                <span asp-validation-for="Password" style="color: red;font-size:13px"></span>
+                <div class="form-holder">
+                    <input asp-for="Email" class="form-control" placeholder="Mail">
+                </div>
+                <span asp-validation-for="Email" style="color: red;font-size:13px"></span>
+                <button type="submit">
+                    <span>Login</span>
+                </button>
+                <div asp-validation-summary="ModelOnly"></div>
+            </form>
+        </div>
+
+    </div>
+</body>
+</html>

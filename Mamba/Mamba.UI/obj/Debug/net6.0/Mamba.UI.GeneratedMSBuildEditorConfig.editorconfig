@@ -9,73 +9,81 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Mamba.UI
 build_property.RootNamespace = Mamba.UI
-build_property.ProjectDir = C:\Users\II novbe\Desktop\all task\Mamba\Mamba.UI\
+build_property.ProjectDir = C:\Users\elvin\OneDrive\Documents\MainProjects\MambaTemplate\Mamba\Mamba.UI\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\II novbe\Desktop\all task\Mamba\Mamba.UI
+build_property.MSBuildProjectDirectory = C:\Users\elvin\OneDrive\Documents\MainProjects\MambaTemplate\Mamba\Mamba.UI
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/II novbe/Desktop/all task/Mamba/Mamba.UI/Areas/Manage/Views/Account/Login.cshtml]
+[C:/Users/elvin/OneDrive/Documents/MainProjects/MambaTemplate/Mamba/Mamba.UI/Areas/Manage/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXEFjY291bnRcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/Desktop/all task/Mamba/Mamba.UI/Areas/Manage/Views/DashBoard/Index.cshtml]
+[C:/Users/elvin/OneDrive/Documents/MainProjects/MambaTemplate/Mamba/Mamba.UI/Areas/Manage/Views/DashBoard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXERhc2hCb2FyZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/Desktop/all task/Mamba/Mamba.UI/Areas/Manage/Views/Profession/Create.cshtml]
+[C:/Users/elvin/OneDrive/Documents/MainProjects/MambaTemplate/Mamba/Mamba.UI/Areas/Manage/Views/Profession/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFByb2Zlc3Npb25cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/Desktop/all task/Mamba/Mamba.UI/Areas/Manage/Views/Profession/Index.cshtml]
+[C:/Users/elvin/OneDrive/Documents/MainProjects/MambaTemplate/Mamba/Mamba.UI/Areas/Manage/Views/Profession/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFByb2Zlc3Npb25cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/Desktop/all task/Mamba/Mamba.UI/Areas/Manage/Views/Profession/Update.cshtml]
+[C:/Users/elvin/OneDrive/Documents/MainProjects/MambaTemplate/Mamba/Mamba.UI/Areas/Manage/Views/Profession/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFByb2Zlc3Npb25cVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/Desktop/all task/Mamba/Mamba.UI/Areas/Manage/Views/Shared/_Layout.cshtml]
+[C:/Users/elvin/OneDrive/Documents/MainProjects/MambaTemplate/Mamba/Mamba.UI/Areas/Manage/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/Desktop/all task/Mamba/Mamba.UI/Areas/Manage/Views/Team/Create.cshtml]
+[C:/Users/elvin/OneDrive/Documents/MainProjects/MambaTemplate/Mamba/Mamba.UI/Areas/Manage/Views/Team/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFRlYW1cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/Desktop/all task/Mamba/Mamba.UI/Areas/Manage/Views/Team/Index.cshtml]
+[C:/Users/elvin/OneDrive/Documents/MainProjects/MambaTemplate/Mamba/Mamba.UI/Areas/Manage/Views/Team/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFRlYW1cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/Desktop/all task/Mamba/Mamba.UI/Areas/Manage/Views/Team/Update.cshtml]
+[C:/Users/elvin/OneDrive/Documents/MainProjects/MambaTemplate/Mamba/Mamba.UI/Areas/Manage/Views/Team/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFRlYW1cVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/Desktop/all task/Mamba/Mamba.UI/Areas/Manage/Views/_ViewImports.cshtml]
+[C:/Users/elvin/OneDrive/Documents/MainProjects/MambaTemplate/Mamba/Mamba.UI/Areas/Manage/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/Desktop/all task/Mamba/Mamba.UI/Areas/Manage/Views/_ViewStart.cshtml]
+[C:/Users/elvin/OneDrive/Documents/MainProjects/MambaTemplate/Mamba/Mamba.UI/Areas/Manage/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/Desktop/all task/Mamba/Mamba.UI/Views/Home/Index.cshtml]
+[C:/Users/elvin/OneDrive/Documents/MainProjects/MambaTemplate/Mamba/Mamba.UI/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elvin/OneDrive/Documents/MainProjects/MambaTemplate/Mamba/Mamba.UI/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elvin/OneDrive/Documents/MainProjects/MambaTemplate/Mamba/Mamba.UI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/Desktop/all task/Mamba/Mamba.UI/Views/Shared/_Layout.cshtml]
+[C:/Users/elvin/OneDrive/Documents/MainProjects/MambaTemplate/Mamba/Mamba.UI/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/Desktop/all task/Mamba/Mamba.UI/Views/Shared/_TeamMemberPartialView.cshtml]
+[C:/Users/elvin/OneDrive/Documents/MainProjects/MambaTemplate/Mamba/Mamba.UI/Views/Shared/_TeamMemberPartialView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UZWFtTWVtYmVyUGFydGlhbFZpZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/Desktop/all task/Mamba/Mamba.UI/Views/_ViewImports.cshtml]
+[C:/Users/elvin/OneDrive/Documents/MainProjects/MambaTemplate/Mamba/Mamba.UI/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/Desktop/all task/Mamba/Mamba.UI/Views/_ViewStart.cshtml]
+[C:/Users/elvin/OneDrive/Documents/MainProjects/MambaTemplate/Mamba/Mamba.UI/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

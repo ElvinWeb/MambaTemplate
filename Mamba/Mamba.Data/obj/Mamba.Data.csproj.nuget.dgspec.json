@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\II novbe\\Desktop\\all task\\Mamba\\Mamba.Data\\Mamba.Data.csproj": {}
+    "C:\\Users\\elvin\\OneDrive\\Documents\\MainProjects\\MambaTemplate\\Mamba\\Mamba.Data\\Mamba.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\II novbe\\Desktop\\all task\\Mamba\\Mamba.Core\\Mamba.Core.csproj": {
+    "C:\\Users\\elvin\\OneDrive\\Documents\\MainProjects\\MambaTemplate\\Mamba\\Mamba.Core\\Mamba.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II novbe\\Desktop\\all task\\Mamba\\Mamba.Core\\Mamba.Core.csproj",
+        "projectUniqueName": "C:\\Users\\elvin\\OneDrive\\Documents\\MainProjects\\MambaTemplate\\Mamba\\Mamba.Core\\Mamba.Core.csproj",
         "projectName": "Mamba.Core",
-        "projectPath": "C:\\Users\\II novbe\\Desktop\\all task\\Mamba\\Mamba.Core\\Mamba.Core.csproj",
-        "packagesPath": "C:\\Users\\II novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II novbe\\Desktop\\all task\\Mamba\\Mamba.Core\\obj\\",
+        "projectPath": "C:\\Users\\elvin\\OneDrive\\Documents\\MainProjects\\MambaTemplate\\Mamba\\Mamba.Core\\Mamba.Core.csproj",
+        "packagesPath": "C:\\Users\\elvin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\elvin\\OneDrive\\Documents\\MainProjects\\MambaTemplate\\Mamba\\Mamba.Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\II novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\elvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -73,21 +69,17 @@
         }
       }
     },
-    "C:\\Users\\II novbe\\Desktop\\all task\\Mamba\\Mamba.Data\\Mamba.Data.csproj": {
+    "C:\\Users\\elvin\\OneDrive\\Documents\\MainProjects\\MambaTemplate\\Mamba\\Mamba.Data\\Mamba.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II novbe\\Desktop\\all task\\Mamba\\Mamba.Data\\Mamba.Data.csproj",
+        "projectUniqueName": "C:\\Users\\elvin\\OneDrive\\Documents\\MainProjects\\MambaTemplate\\Mamba\\Mamba.Data\\Mamba.Data.csproj",
         "projectName": "Mamba.Data",
-        "projectPath": "C:\\Users\\II novbe\\Desktop\\all task\\Mamba\\Mamba.Data\\Mamba.Data.csproj",
-        "packagesPath": "C:\\Users\\II novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II novbe\\Desktop\\all task\\Mamba\\Mamba.Data\\obj\\",
+        "projectPath": "C:\\Users\\elvin\\OneDrive\\Documents\\MainProjects\\MambaTemplate\\Mamba\\Mamba.Data\\Mamba.Data.csproj",
+        "packagesPath": "C:\\Users\\elvin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\elvin\\OneDrive\\Documents\\MainProjects\\MambaTemplate\\Mamba\\Mamba.Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\II novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\elvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -101,8 +93,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\II novbe\\Desktop\\all task\\Mamba\\Mamba.Core\\Mamba.Core.csproj": {
-                "projectPath": "C:\\Users\\II novbe\\Desktop\\all task\\Mamba\\Mamba.Core\\Mamba.Core.csproj"
+              "C:\\Users\\elvin\\OneDrive\\Documents\\MainProjects\\MambaTemplate\\Mamba\\Mamba.Core\\Mamba.Core.csproj": {
+                "projectPath": "C:\\Users\\elvin\\OneDrive\\Documents\\MainProjects\\MambaTemplate\\Mamba\\Mamba.Core\\Mamba.Core.csproj"
               }
             }
           }
